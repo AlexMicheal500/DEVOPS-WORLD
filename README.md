@@ -4,7 +4,31 @@
 
 ![WhatsApp Image 2023-01-13 at 23 29 58](https://user-images.githubusercontent.com/85270361/212431058-b641e3fe-4aeb-4976-9d86-d89cd8fb87d6.jpg)
 
+🐧LINUX: To communicate with and connect server
 
+☁️AWS: To build Infrastructure in Cloud within your VPC
+
+♻️GIT: Your local repo, to push/pull codes from distributed repo
+
+🪣BIT BUCKET: One of many cloud-based distributed repository
+
+👷MAVEN: Builds your java codes to output artifacts
+
+🔗TOMCAT: Makes your Staging, QA, Dev, Production Environments
+
+🫙DOCKER: For containerization of Applications (artifacts)
+
+♨️ANSIBLE: For automation of Application deployment to Servers
+
+❗️SONARQUBE: For code Quality Analysis of artifacts
+
+♦️jFROG: For Artifacts Repository (version control) Management
+
+⭐️KUBERNETES: Powerful tool for Container Orchestration
+
+💢JENKINS: Integrates all the above tools in CI/CD pipeline
+
+🎯TERRAFORM: Builds and automates the provisioning of Infrastructure in Cloud – IaaC
 
 
 ## Recommended RoadMap:
